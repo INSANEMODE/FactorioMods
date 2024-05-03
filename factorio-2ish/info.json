@@ -163,8 +163,8 @@
         "packing-tape",
         "Big-Monsters",
         "PollutionSolutionsLite",
-        "MushroomCloud",
-        
+        "MushroomCloud"
+
     ],
     "package": {
         "sync_portal_details": true
