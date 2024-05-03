@@ -1,6 +1,6 @@
 {
     "name": "INSANEMODE",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "factorio_version": "1.1",
     "title": "INSANEMODE?",
     "author": "LilithCorvina",
@@ -109,7 +109,6 @@
         "Reinforced-Walls",
         "RenaiTransportation",
         "SchallCircuitGroup",
-        "programmable-controllers",
         "Avatars",
         "SchallAmmoTurrets",
         "SchallGunPod",
