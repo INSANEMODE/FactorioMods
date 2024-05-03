@@ -1,6 +1,6 @@
 {
     "name": "INSANEMODE",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "factorio_version": "1.1",
     "title": "INSANEMODE?",
     "author": "LilithCorvina",
@@ -121,7 +121,6 @@
         "Logistic-Gun-Turret",
         "SchallArtillery",
         "SchallLandMine",
-        "PavementDriveAssist",
         "TurboBike",
         "playtime-plus",
         "WhereIsMyBody",
@@ -157,8 +156,7 @@
         "pushbutton",
         "packing-tape",
         "Big-Monsters",
-        "PollutionSolutionsLite",
-        "MushroomCloud"
+        "PollutionSolutionsLite"
 
     ],
     "package": {
