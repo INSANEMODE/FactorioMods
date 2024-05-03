@@ -120,6 +120,7 @@
         "ballistic_missile",
         "rec-blue-plus",
         "vtk-armor-plating",
+        "vtk-cannon-turret",
         "Logistic-Gun-Turret",
         "SchallArtillery",
         "SchallLandMine",
@@ -147,8 +148,23 @@
         "DiscoScience",
         "Milestones",
         "GhostInHand",
-        "BeltRouter"
-
+        "BeltRouter",
+        "even-distribution",
+        "inserter-throughput",
+        "holographic_signs",
+        "IslandStart",
+        "bzgas",
+        "DestructiveBlueprints",
+        "Kux-BlueprintExtensions",
+        "Better-Power-Armor-Grid",
+        "lightArtillery",
+        "LogisticRequestManager",
+        "pushbutton",
+        "packing-tape",
+        "Big-Monsters",
+        "PollutionSolutionsLite",
+        "MushroomCloud",
+        
     ],
     "package": {
         "sync_portal_details": true
