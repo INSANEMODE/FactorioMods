@@ -1,6 +1,6 @@
 {
     "name": "INSANEMODE",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "factorio_version": "1.1",
     "title": "INSANEMODE?",
     "author": "LilithCorvina",
@@ -121,7 +121,6 @@
         "Logistic-Gun-Turret",
         "SchallArtillery",
         "SchallLandMine",
-        "VehicleBalancing",
         "PavementDriveAssist",
         "TurboBike",
         "playtime-plus",
