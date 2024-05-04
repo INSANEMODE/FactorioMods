@@ -1,6 +1,6 @@
 {
     "name": "INSANEMODE",
-    "version": "1.0.11",
+    "version": "1.0.12",
     "factorio_version": "1.1",
     "title": "INSANEMODE?",
     "author": "LilithCorvina",
@@ -68,7 +68,6 @@
         "Dirt_Path",
         "minime",
         "AmongUsCharacter",
-        "CrusaderSkin",
         "dnf-snow",
         "genshin-impact-skin",
         "GirlCharacter",
