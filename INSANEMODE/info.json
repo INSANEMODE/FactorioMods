@@ -1,6 +1,6 @@
 {
     "name": "INSANEMODE",
-    "version": "1.0.13",
+    "version": "1.0.16",
     "factorio_version": "1.1",
     "title": "INSANEMODE?",
     "author": "LilithCorvina",
@@ -68,20 +68,13 @@
         "Dirt_Path",
         "minime",
         "dnf-snow",
-        "genshin-impact-skin",
         "GirlCharacter",
         "MechanicusMiniMAX",
         "IRobot",
-        "miku-bikini-swimsuit",
-        "minecraft",
         "NikoCharacter",
-        "pikachu",
         "ProtogenCharacter",
         "shrek2",
-        "tianyi",
-        "vaporeon-character",
         "wickerbeast",
-        "yaemiko-raidenshogun-characters",
         "Big_Brother",
         "TheFatController",
         "RailSignalPlanner",
@@ -180,7 +173,6 @@
         "calculator-ui",
         "AircraftRealism",
         "factorissimo-2-notnotmelon",
-        "RealisticReactors",
         "PlutoniumEnergy",
         "CleanFloor",
         "bigger-artillery",
@@ -204,8 +196,6 @@
         "BlueprintConverter",
         "Blueprint-Evolution",
         "BlueprintLab_Henriquelay"
-
-
     ],
     "package": {
         "sync_portal_details": true

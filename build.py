@@ -58,7 +58,7 @@ if __name__ == '__main__':
 
     # build mods
     for mod_path in mods:
-        if mod_path.name == 'factorio-2ish':
+        if mod_path.name == 'INSANEMODE':
             with update_2ish(mod_path):
                 build_mod(mod_path, out_path)
                 build_mod(mod_path, out_path, make_forced=True)
